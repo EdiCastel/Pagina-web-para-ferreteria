@@ -1,0 +1,4 @@
+El usuario por defecto de la pagina es:
+Admin
+y la contraseña es:
+1234
